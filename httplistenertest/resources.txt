@@ -1,0 +1,5 @@
+﻿https://www.codeproject.com/Articles/694907/Embed-a-web-server-in-a-windows-service
+http://nancyfx.org/
+https://github.com/NancyFx/Nancy.Templates/issues/16
+https://stackoverflow.com/questions/39574057/cannot-apply-indexing-with-to-an-expression-of-type-method-groupsinglepage
+
